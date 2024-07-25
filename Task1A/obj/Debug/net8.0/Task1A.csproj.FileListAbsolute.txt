@@ -12,3 +12,4 @@ C:\Учёба С#\CSharpEducation.Practice\Task1A\obj\Debug\net8.0\refint\Task1A
 C:\Учёба С#\CSharpEducation.Practice\Task1A\obj\Debug\net8.0\Task1A.pdb
 C:\Учёба С#\CSharpEducation.Practice\Task1A\obj\Debug\net8.0\Task1A.genruntimeconfig.cache
 C:\Учёба С#\CSharpEducation.Practice\Task1A\obj\Debug\net8.0\ref\Task1A.dll
+C:\Учёба С#\CSharpEducation.Practice\Task1A\obj\Debug\net8.0\Task1A.sourcelink.json

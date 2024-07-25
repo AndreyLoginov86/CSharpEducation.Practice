@@ -1,0 +1,15 @@
+C:\Учёба С#\CSharpEducation.Practice\ExampleVariable\bin\Debug\net8.0\ExampleVariable.exe
+C:\Учёба С#\CSharpEducation.Practice\ExampleVariable\bin\Debug\net8.0\ExampleVariable.deps.json
+C:\Учёба С#\CSharpEducation.Practice\ExampleVariable\bin\Debug\net8.0\ExampleVariable.runtimeconfig.json
+C:\Учёба С#\CSharpEducation.Practice\ExampleVariable\bin\Debug\net8.0\ExampleVariable.dll
+C:\Учёба С#\CSharpEducation.Practice\ExampleVariable\bin\Debug\net8.0\ExampleVariable.pdb
+C:\Учёба С#\CSharpEducation.Practice\ExampleVariable\obj\Debug\net8.0\ExampleVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба С#\CSharpEducation.Practice\ExampleVariable\obj\Debug\net8.0\ExampleVariable.AssemblyInfoInputs.cache
+C:\Учёба С#\CSharpEducation.Practice\ExampleVariable\obj\Debug\net8.0\ExampleVariable.AssemblyInfo.cs
+C:\Учёба С#\CSharpEducation.Practice\ExampleVariable\obj\Debug\net8.0\ExampleVariable.csproj.CoreCompileInputs.cache
+C:\Учёба С#\CSharpEducation.Practice\ExampleVariable\obj\Debug\net8.0\ExampleVariable.sourcelink.json
+C:\Учёба С#\CSharpEducation.Practice\ExampleVariable\obj\Debug\net8.0\ExampleVariable.dll
+C:\Учёба С#\CSharpEducation.Practice\ExampleVariable\obj\Debug\net8.0\refint\ExampleVariable.dll
+C:\Учёба С#\CSharpEducation.Practice\ExampleVariable\obj\Debug\net8.0\ExampleVariable.pdb
+C:\Учёба С#\CSharpEducation.Practice\ExampleVariable\obj\Debug\net8.0\ExampleVariable.genruntimeconfig.cache
+C:\Учёба С#\CSharpEducation.Practice\ExampleVariable\obj\Debug\net8.0\ref\ExampleVariable.dll
