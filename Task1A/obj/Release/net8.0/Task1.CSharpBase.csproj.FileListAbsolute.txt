@@ -1,0 +1,14 @@
+C:\Учёба С#\CSharpEducation.Practice\Task1.CSharpBase\bin\Release\net8.0\Task1.CSharpBase.exe
+C:\Учёба С#\CSharpEducation.Practice\Task1.CSharpBase\bin\Release\net8.0\Task1.CSharpBase.deps.json
+C:\Учёба С#\CSharpEducation.Practice\Task1.CSharpBase\bin\Release\net8.0\Task1.CSharpBase.runtimeconfig.json
+C:\Учёба С#\CSharpEducation.Practice\Task1.CSharpBase\bin\Release\net8.0\Task1.CSharpBase.dll
+C:\Учёба С#\CSharpEducation.Practice\Task1.CSharpBase\bin\Release\net8.0\Task1.CSharpBase.pdb
+C:\Учёба С#\CSharpEducation.Practice\Task1.CSharpBase\obj\Release\net8.0\Task1.CSharpBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба С#\CSharpEducation.Practice\Task1.CSharpBase\obj\Release\net8.0\Task1.CSharpBase.AssemblyInfoInputs.cache
+C:\Учёба С#\CSharpEducation.Practice\Task1.CSharpBase\obj\Release\net8.0\Task1.CSharpBase.AssemblyInfo.cs
+C:\Учёба С#\CSharpEducation.Practice\Task1.CSharpBase\obj\Release\net8.0\Task1.CSharpBase.csproj.CoreCompileInputs.cache
+C:\Учёба С#\CSharpEducation.Practice\Task1.CSharpBase\obj\Release\net8.0\Task1.CSharpBase.dll
+C:\Учёба С#\CSharpEducation.Practice\Task1.CSharpBase\obj\Release\net8.0\refint\Task1.CSharpBase.dll
+C:\Учёба С#\CSharpEducation.Practice\Task1.CSharpBase\obj\Release\net8.0\Task1.CSharpBase.pdb
+C:\Учёба С#\CSharpEducation.Practice\Task1.CSharpBase\obj\Release\net8.0\Task1.CSharpBase.genruntimeconfig.cache
+C:\Учёба С#\CSharpEducation.Practice\Task1.CSharpBase\obj\Release\net8.0\ref\Task1.CSharpBase.dll

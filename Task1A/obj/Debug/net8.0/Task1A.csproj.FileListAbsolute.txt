@@ -1,0 +1,14 @@
+C:\Учёба С#\CSharpEducation.Practice\Task1A\bin\Debug\net8.0\Task1A.exe
+C:\Учёба С#\CSharpEducation.Practice\Task1A\bin\Debug\net8.0\Task1A.deps.json
+C:\Учёба С#\CSharpEducation.Practice\Task1A\bin\Debug\net8.0\Task1A.runtimeconfig.json
+C:\Учёба С#\CSharpEducation.Practice\Task1A\bin\Debug\net8.0\Task1A.dll
+C:\Учёба С#\CSharpEducation.Practice\Task1A\bin\Debug\net8.0\Task1A.pdb
+C:\Учёба С#\CSharpEducation.Practice\Task1A\obj\Debug\net8.0\Task1A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба С#\CSharpEducation.Practice\Task1A\obj\Debug\net8.0\Task1A.AssemblyInfoInputs.cache
+C:\Учёба С#\CSharpEducation.Practice\Task1A\obj\Debug\net8.0\Task1A.AssemblyInfo.cs
+C:\Учёба С#\CSharpEducation.Practice\Task1A\obj\Debug\net8.0\Task1A.csproj.CoreCompileInputs.cache
+C:\Учёба С#\CSharpEducation.Practice\Task1A\obj\Debug\net8.0\Task1A.dll
+C:\Учёба С#\CSharpEducation.Practice\Task1A\obj\Debug\net8.0\refint\Task1A.dll
+C:\Учёба С#\CSharpEducation.Practice\Task1A\obj\Debug\net8.0\Task1A.pdb
+C:\Учёба С#\CSharpEducation.Practice\Task1A\obj\Debug\net8.0\Task1A.genruntimeconfig.cache
+C:\Учёба С#\CSharpEducation.Practice\Task1A\obj\Debug\net8.0\ref\Task1A.dll
