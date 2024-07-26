@@ -1,0 +1,15 @@
+C:\Учёба С#\CSharpEducation.Practice\WelcomeMessage\bin\Debug\net8.0\WelcomeMessage.exe
+C:\Учёба С#\CSharpEducation.Practice\WelcomeMessage\bin\Debug\net8.0\WelcomeMessage.deps.json
+C:\Учёба С#\CSharpEducation.Practice\WelcomeMessage\bin\Debug\net8.0\WelcomeMessage.runtimeconfig.json
+C:\Учёба С#\CSharpEducation.Practice\WelcomeMessage\bin\Debug\net8.0\WelcomeMessage.dll
+C:\Учёба С#\CSharpEducation.Practice\WelcomeMessage\bin\Debug\net8.0\WelcomeMessage.pdb
+C:\Учёба С#\CSharpEducation.Practice\WelcomeMessage\obj\Debug\net8.0\WelcomeMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба С#\CSharpEducation.Practice\WelcomeMessage\obj\Debug\net8.0\WelcomeMessage.AssemblyInfoInputs.cache
+C:\Учёба С#\CSharpEducation.Practice\WelcomeMessage\obj\Debug\net8.0\WelcomeMessage.AssemblyInfo.cs
+C:\Учёба С#\CSharpEducation.Practice\WelcomeMessage\obj\Debug\net8.0\WelcomeMessage.csproj.CoreCompileInputs.cache
+C:\Учёба С#\CSharpEducation.Practice\WelcomeMessage\obj\Debug\net8.0\WelcomeMessage.sourcelink.json
+C:\Учёба С#\CSharpEducation.Practice\WelcomeMessage\obj\Debug\net8.0\WelcomeMessage.dll
+C:\Учёба С#\CSharpEducation.Practice\WelcomeMessage\obj\Debug\net8.0\refint\WelcomeMessage.dll
+C:\Учёба С#\CSharpEducation.Practice\WelcomeMessage\obj\Debug\net8.0\WelcomeMessage.pdb
+C:\Учёба С#\CSharpEducation.Practice\WelcomeMessage\obj\Debug\net8.0\WelcomeMessage.genruntimeconfig.cache
+C:\Учёба С#\CSharpEducation.Practice\WelcomeMessage\obj\Debug\net8.0\ref\WelcomeMessage.dll
