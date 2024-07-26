@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ExampleVariableInitialization")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SidesTriangle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91b7e9bdbf848347e7113555c7cbc5afcab5c696")]
-[assembly: System.Reflection.AssemblyProductAttribute("ExampleVariableInitialization")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ExampleVariableInitialization")]
+[assembly: System.Reflection.AssemblyProductAttribute("SidesTriangle")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SidesTriangle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

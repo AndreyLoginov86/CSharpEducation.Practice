@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AC805C1E-A7D7-4719-B629-613446D87AD0}|SidesTriangle\\SidesTriangle.csproj|c:\\\u0443\u0447\u0451\u0431\u0430 \u0441#\\csharpeducation.practice\\sidestriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC805C1E-A7D7-4719-B629-613446D87AD0}|SidesTriangle\\SidesTriangle.csproj|solutionrelative:sidestriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D3C2DCC-F756-4449-A1D4-057CEEEF1945}|AreaCircle\\AreaCircle.csproj|c:\\\u0443\u0447\u0451\u0431\u0430 \u0441#\\csharpeducation.practice\\areacircle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D3C2DCC-F756-4449-A1D4-057CEEEF1945}|AreaCircle\\AreaCircle.csproj|solutionrelative:areacircle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B385C669-CDE2-4FAD-9E8D-FB29F6C06D40}|Task1A\\Task1A.csproj|c:\\\u0443\u0447\u0451\u0431\u0430 \u0441#\\csharpeducation.practice\\task1a\\task1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B385C669-CDE2-4FAD-9E8D-FB29F6C06D40}|Task1A\\Task1A.csproj|solutionrelative:task1a\\task1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CB97001-A207-46A6-B52E-3E8CF87737E5}|\u0421oncatenationStrings\\\u0421oncatenationStrings.csproj|c:\\\u0443\u0447\u0451\u0431\u0430 \u0441#\\csharpeducation.practice\\\u0441oncatenationstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CB97001-A207-46A6-B52E-3E8CF87737E5}|\u0421oncatenationStrings\\\u0421oncatenationStrings.csproj|solutionrelative:\u0441oncatenationstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C09EC9B-A493-4D00-94FC-4BEEEBE73B9A}|WelcomeMessage\\WelcomeMessage.csproj|c:\\\u0443\u0447\u0451\u0431\u0430 \u0441#\\csharpeducation.practice\\welcomemessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C09EC9B-A493-4D00-94FC-4BEEEBE73B9A}|WelcomeMessage\\WelcomeMessage.csproj|solutionrelative:welcomemessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,51 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\AreaCircle\\Program.cs",
-              "RelativeDocumentMoniker": "AreaCircle\\Program.cs",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\AreaCircle\\Program.cs",
-              "RelativeToolTip": "AreaCircle\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABnAAAA",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\SidesTriangle\\Program.cs",
+              "RelativeDocumentMoniker": "SidesTriangle\\Program.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\SidesTriangle\\Program.cs",
+              "RelativeToolTip": "SidesTriangle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T17:39:25.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\WelcomeMessage\\Program.cs",
-              "RelativeDocumentMoniker": "WelcomeMessage\\Program.cs",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\WelcomeMessage\\Program.cs",
-              "RelativeToolTip": "WelcomeMessage\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T16:58:13.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\\u0421oncatenationStrings\\Program.cs",
-              "RelativeDocumentMoniker": "\u0421oncatenationStrings\\Program.cs",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\\u0421oncatenationStrings\\Program.cs",
-              "RelativeToolTip": "\u0421oncatenationStrings\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T16:59:00.39Z",
+              "WhenOpened": "2024-07-26T18:15:59.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Task1A.cs",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\Task1A\\Task1A.cs",
-              "RelativeDocumentMoniker": "Task1A\\Task1A.cs",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\Task1A\\Task1A.cs",
-              "RelativeToolTip": "Task1A\\Task1A.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\AreaCircle\\Program.cs",
+              "RelativeDocumentMoniker": "AreaCircle\\Program.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\AreaCircle\\Program.cs",
+              "RelativeToolTip": "AreaCircle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T16:33:50.023Z",
+              "WhenOpened": "2024-07-26T17:39:25.426Z",
               "EditorCaption": ""
             }
           ]

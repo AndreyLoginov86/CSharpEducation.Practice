@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WelcomeMessage", "WelcomeMe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "СoncatenationStrings", "СoncatenationStrings\СoncatenationStrings.csproj", "{1CB97001-A207-46A6-B52E-3E8CF87737E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCircle", "AreaCircle\AreaCircle.csproj", "{3D3C2DCC-F756-4449-A1D4-057CEEEF1945}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreaCircle", "AreaCircle\AreaCircle.csproj", "{3D3C2DCC-F756-4449-A1D4-057CEEEF1945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SidesTriangle", "SidesTriangle\SidesTriangle.csproj", "{AC805C1E-A7D7-4719-B629-613446D87AD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -68,6 +70,12 @@ Global
 		{3D3C2DCC-F756-4449-A1D4-057CEEEF1945}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D3C2DCC-F756-4449-A1D4-057CEEEF1945}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D3C2DCC-F756-4449-A1D4-057CEEEF1945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC805C1E-A7D7-4719-B629-613446D87AD0}.CheckIn|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC805C1E-A7D7-4719-B629-613446D87AD0}.CheckIn|Any CPU.Build.0 = Debug|Any CPU
+		{AC805C1E-A7D7-4719-B629-613446D87AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC805C1E-A7D7-4719-B629-613446D87AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC805C1E-A7D7-4719-B629-613446D87AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC805C1E-A7D7-4719-B629-613446D87AD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

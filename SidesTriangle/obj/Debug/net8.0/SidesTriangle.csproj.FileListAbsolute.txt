@@ -1,0 +1,15 @@
+C:\Учёба С#\CSharpEducation.Practice\SidesTriangle\bin\Debug\net8.0\SidesTriangle.exe
+C:\Учёба С#\CSharpEducation.Practice\SidesTriangle\bin\Debug\net8.0\SidesTriangle.deps.json
+C:\Учёба С#\CSharpEducation.Practice\SidesTriangle\bin\Debug\net8.0\SidesTriangle.runtimeconfig.json
+C:\Учёба С#\CSharpEducation.Practice\SidesTriangle\bin\Debug\net8.0\SidesTriangle.dll
+C:\Учёба С#\CSharpEducation.Practice\SidesTriangle\bin\Debug\net8.0\SidesTriangle.pdb
+C:\Учёба С#\CSharpEducation.Practice\SidesTriangle\obj\Debug\net8.0\SidesTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба С#\CSharpEducation.Practice\SidesTriangle\obj\Debug\net8.0\SidesTriangle.AssemblyInfoInputs.cache
+C:\Учёба С#\CSharpEducation.Practice\SidesTriangle\obj\Debug\net8.0\SidesTriangle.AssemblyInfo.cs
+C:\Учёба С#\CSharpEducation.Practice\SidesTriangle\obj\Debug\net8.0\SidesTriangle.csproj.CoreCompileInputs.cache
+C:\Учёба С#\CSharpEducation.Practice\SidesTriangle\obj\Debug\net8.0\SidesTriangle.sourcelink.json
+C:\Учёба С#\CSharpEducation.Practice\SidesTriangle\obj\Debug\net8.0\SidesTriangle.dll
+C:\Учёба С#\CSharpEducation.Practice\SidesTriangle\obj\Debug\net8.0\refint\SidesTriangle.dll
+C:\Учёба С#\CSharpEducation.Practice\SidesTriangle\obj\Debug\net8.0\SidesTriangle.pdb
+C:\Учёба С#\CSharpEducation.Practice\SidesTriangle\obj\Debug\net8.0\SidesTriangle.genruntimeconfig.cache
+C:\Учёба С#\CSharpEducation.Practice\SidesTriangle\obj\Debug\net8.0\ref\SidesTriangle.dll
