@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1CB97001-A207-46A6-B52E-3E8CF87737E5}|\u0421oncatenationStrings\\\u0421oncatenationStrings.csproj|c:\\\u0443\u0447\u0451\u0431\u0430 \u0441#\\csharpeducation.practice\\\u0441oncatenationstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB97001-A207-46A6-B52E-3E8CF87737E5}|\u0421oncatenationStrings\\\u0421oncatenationStrings.csproj|solutionrelative:\u0441oncatenationstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C09EC9B-A493-4D00-94FC-4BEEEBE73B9A}|WelcomeMessage\\WelcomeMessage.csproj|c:\\\u0443\u0447\u0451\u0431\u0430 \u0441#\\csharpeducation.practice\\welcomemessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C09EC9B-A493-4D00-94FC-4BEEEBE73B9A}|WelcomeMessage\\WelcomeMessage.csproj|solutionrelative:welcomemessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B385C669-CDE2-4FAD-9E8D-FB29F6C06D40}|Task1A\\Task1A.csproj|c:\\\u0443\u0447\u0451\u0431\u0430 \u0441#\\csharpeducation.practice\\task1a\\task1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B385C669-CDE2-4FAD-9E8D-FB29F6C06D40}|Task1A\\Task1A.csproj|solutionrelative:task1a\\task1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{930B012B-5CD1-4E09-BC85-4BBCC7764B1C}|ExampleVariable\\ExampleVariable.csproj|c:\\\u0443\u0447\u0451\u0431\u0430 \u0441#\\csharpeducation.practice\\examplevariable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{930B012B-5CD1-4E09-BC85-4BBCC7764B1C}|ExampleVariable\\ExampleVariable.csproj|solutionrelative:examplevariable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3212BCB9-771D-41A6-B9B6-DE4AE361CAB5}|ExampleVariableInitialization\\ExampleVariableInitialization.csproj|c:\\\u0443\u0447\u0451\u0431\u0430 \u0441#\\csharpeducation.practice\\examplevariableinitialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3212BCB9-771D-41A6-B9B6-DE4AE361CAB5}|ExampleVariableInitialization\\ExampleVariableInitialization.csproj|solutionrelative:examplevariableinitialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\WelcomeMessage\\Program.cs",
+              "RelativeDocumentMoniker": "WelcomeMessage\\Program.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\WelcomeMessage\\Program.cs",
+              "RelativeToolTip": "WelcomeMessage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:58:13.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\\u0421oncatenationStrings\\Program.cs",
+              "RelativeDocumentMoniker": "\u0421oncatenationStrings\\Program.cs",
+              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\\u0421oncatenationStrings\\Program.cs",
+              "RelativeToolTip": "\u0421oncatenationStrings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:59:00.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Task1A.cs",
               "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\Task1A\\Task1A.cs",
               "RelativeDocumentMoniker": "Task1A\\Task1A.cs",
@@ -39,45 +61,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T16:33:50.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\WelcomeMessage\\Program.cs",
-              "RelativeDocumentMoniker": "WelcomeMessage\\Program.cs",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\WelcomeMessage\\Program.cs",
-              "RelativeToolTip": "WelcomeMessage\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T16:32:55.645Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\ExampleVariableInitialization\\Program.cs",
-              "RelativeDocumentMoniker": "ExampleVariableInitialization\\Program.cs",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\ExampleVariableInitialization\\Program.cs",
-              "RelativeToolTip": "ExampleVariableInitialization\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T16:25:19.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\ExampleVariable\\Program.cs",
-              "RelativeDocumentMoniker": "ExampleVariable\\Program.cs",
-              "ToolTip": "C:\\\u0423\u0447\u0451\u0431\u0430 \u0421#\\CSharpEducation.Practice\\ExampleVariable\\Program.cs",
-              "RelativeToolTip": "ExampleVariable\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T18:26:32.482Z",
               "EditorCaption": ""
             }
           ]

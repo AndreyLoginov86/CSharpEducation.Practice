@@ -1,0 +1,15 @@
+C:\Учёба С#\CSharpEducation.Practice\СoncatenationStrings\bin\Debug\net8.0\СoncatenationStrings.exe
+C:\Учёба С#\CSharpEducation.Practice\СoncatenationStrings\bin\Debug\net8.0\СoncatenationStrings.deps.json
+C:\Учёба С#\CSharpEducation.Practice\СoncatenationStrings\bin\Debug\net8.0\СoncatenationStrings.runtimeconfig.json
+C:\Учёба С#\CSharpEducation.Practice\СoncatenationStrings\bin\Debug\net8.0\СoncatenationStrings.dll
+C:\Учёба С#\CSharpEducation.Practice\СoncatenationStrings\bin\Debug\net8.0\СoncatenationStrings.pdb
+C:\Учёба С#\CSharpEducation.Practice\СoncatenationStrings\obj\Debug\net8.0\СoncatenationStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба С#\CSharpEducation.Practice\СoncatenationStrings\obj\Debug\net8.0\СoncatenationStrings.AssemblyInfoInputs.cache
+C:\Учёба С#\CSharpEducation.Practice\СoncatenationStrings\obj\Debug\net8.0\СoncatenationStrings.AssemblyInfo.cs
+C:\Учёба С#\CSharpEducation.Practice\СoncatenationStrings\obj\Debug\net8.0\СoncatenationStrings.csproj.CoreCompileInputs.cache
+C:\Учёба С#\CSharpEducation.Practice\СoncatenationStrings\obj\Debug\net8.0\СoncatenationStrings.sourcelink.json
+C:\Учёба С#\CSharpEducation.Practice\СoncatenationStrings\obj\Debug\net8.0\СoncatenationStrings.dll
+C:\Учёба С#\CSharpEducation.Practice\СoncatenationStrings\obj\Debug\net8.0\refint\СoncatenationStrings.dll
+C:\Учёба С#\CSharpEducation.Practice\СoncatenationStrings\obj\Debug\net8.0\СoncatenationStrings.pdb
+C:\Учёба С#\CSharpEducation.Practice\СoncatenationStrings\obj\Debug\net8.0\СoncatenationStrings.genruntimeconfig.cache
+C:\Учёба С#\CSharpEducation.Practice\СoncatenationStrings\obj\Debug\net8.0\ref\СoncatenationStrings.dll

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ExampleVariable")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("СoncatenationStrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+247e9c060fcafdfc80e1ccda26cc7add567d1fae")]
-[assembly: System.Reflection.AssemblyProductAttribute("ExampleVariable")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ExampleVariable")]
+[assembly: System.Reflection.AssemblyProductAttribute("СoncatenationStrings")]
+[assembly: System.Reflection.AssemblyTitleAttribute("СoncatenationStrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
