@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleVariableInitializati
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WelcomeMessage", "WelcomeMessage\WelcomeMessage.csproj", "{8C09EC9B-A493-4D00-94FC-4BEEEBE73B9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "СoncatenationStrings", "СoncatenationStrings\СoncatenationStrings.csproj", "{1CB97001-A207-46A6-B52E-3E8CF87737E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "СoncatenationStrings", "СoncatenationStrings\СoncatenationStrings.csproj", "{1CB97001-A207-46A6-B52E-3E8CF87737E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCircle", "AreaCircle\AreaCircle.csproj", "{3D3C2DCC-F756-4449-A1D4-057CEEEF1945}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -60,6 +62,12 @@ Global
 		{1CB97001-A207-46A6-B52E-3E8CF87737E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CB97001-A207-46A6-B52E-3E8CF87737E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CB97001-A207-46A6-B52E-3E8CF87737E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D3C2DCC-F756-4449-A1D4-057CEEEF1945}.CheckIn|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3C2DCC-F756-4449-A1D4-057CEEEF1945}.CheckIn|Any CPU.Build.0 = Debug|Any CPU
+		{3D3C2DCC-F756-4449-A1D4-057CEEEF1945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3C2DCC-F756-4449-A1D4-057CEEEF1945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3C2DCC-F756-4449-A1D4-057CEEEF1945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3C2DCC-F756-4449-A1D4-057CEEEF1945}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

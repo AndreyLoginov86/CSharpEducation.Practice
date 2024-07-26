@@ -1,0 +1,15 @@
+C:\Учёба С#\CSharpEducation.Practice\AreaCircle\bin\Debug\net8.0\AreaCircle.exe
+C:\Учёба С#\CSharpEducation.Practice\AreaCircle\bin\Debug\net8.0\AreaCircle.deps.json
+C:\Учёба С#\CSharpEducation.Practice\AreaCircle\bin\Debug\net8.0\AreaCircle.runtimeconfig.json
+C:\Учёба С#\CSharpEducation.Practice\AreaCircle\bin\Debug\net8.0\AreaCircle.dll
+C:\Учёба С#\CSharpEducation.Practice\AreaCircle\bin\Debug\net8.0\AreaCircle.pdb
+C:\Учёба С#\CSharpEducation.Practice\AreaCircle\obj\Debug\net8.0\AreaCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учёба С#\CSharpEducation.Practice\AreaCircle\obj\Debug\net8.0\AreaCircle.AssemblyInfoInputs.cache
+C:\Учёба С#\CSharpEducation.Practice\AreaCircle\obj\Debug\net8.0\AreaCircle.AssemblyInfo.cs
+C:\Учёба С#\CSharpEducation.Practice\AreaCircle\obj\Debug\net8.0\AreaCircle.csproj.CoreCompileInputs.cache
+C:\Учёба С#\CSharpEducation.Practice\AreaCircle\obj\Debug\net8.0\AreaCircle.sourcelink.json
+C:\Учёба С#\CSharpEducation.Practice\AreaCircle\obj\Debug\net8.0\AreaCircle.dll
+C:\Учёба С#\CSharpEducation.Practice\AreaCircle\obj\Debug\net8.0\refint\AreaCircle.dll
+C:\Учёба С#\CSharpEducation.Practice\AreaCircle\obj\Debug\net8.0\AreaCircle.pdb
+C:\Учёба С#\CSharpEducation.Practice\AreaCircle\obj\Debug\net8.0\AreaCircle.genruntimeconfig.cache
+C:\Учёба С#\CSharpEducation.Practice\AreaCircle\obj\Debug\net8.0\ref\AreaCircle.dll
